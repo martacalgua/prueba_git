@@ -5,6 +5,6 @@
 
 int main()
 {
-    std::cout << "Version 2. Todo funciones\n";
+    std::cout << "Version 2. Con parámetros\n";
 }
 
